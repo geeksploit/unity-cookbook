@@ -323,7 +323,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Hello World!
+  m_Text: <i><color=red>H</color><color=green>e</color><color=blue>l</color><color=red>l</color><color=green>o</color>
+    <color=blue>W</color><color=red>o</color><color=green>r</color><color=blue>l</color><color=red>d</color><color=green>!</color></i>
 --- !u!222 &692608849
 CanvasRenderer:
   m_ObjectHideFlags: 0
