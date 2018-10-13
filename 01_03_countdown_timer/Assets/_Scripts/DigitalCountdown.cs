@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+[RequireComponent (typeof (CountdownTimer))]
 public class DigitalCountdown : MonoBehaviour {
 	private Text textClock;
 	private CountdownTimer countdownTimer;
