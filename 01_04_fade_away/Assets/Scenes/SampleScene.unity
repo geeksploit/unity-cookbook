@@ -356,6 +356,8 @@ GameObject:
   - component: {fileID: 2046079491}
   - component: {fileID: 2046079493}
   - component: {fileID: 2046079492}
+  - component: {fileID: 2046079495}
+  - component: {fileID: 2046079494}
   m_Layer: 5
   m_Name: Text-fade-away
   m_TagString: Untagged
@@ -421,3 +423,25 @@ CanvasRenderer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2046079490}
   m_CullTransparentMesh: 0
+--- !u!114 &2046079494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2046079490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3adeed447d9844759b39b171ed0f523c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2046079495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2046079490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d22381791eeaf4bf394c3e4eeb225c95, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
